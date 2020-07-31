@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="csharp_otp" Version="1.0.2" />
+    <PackageReference Include="FluentConsole.Library" Version="2.0.4" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.24" />
+  </ItemGroup>
+
+</Project>
